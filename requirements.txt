@@ -1,5 +1,4 @@
 django
-pyopenssl
 djangorestframework
 psycopg2-binary
 django-extensions
